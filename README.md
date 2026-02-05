@@ -59,6 +59,6 @@ This task demonstrates the effective use of data visualization techniques to ana
 ---
 
 ## 📁 Project Structure
-├── Prodigy_DS_Task01_Parnashree_Gurav.ipynb
+├── Prodigy_DS_Task01_Gori_Porwal.ipynb
 ├── API_SP.POP.TOTL_DS2_en_csv_v2_174326.csv
 ├── README.md
